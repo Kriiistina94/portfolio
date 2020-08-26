@@ -2,9 +2,7 @@ title: Kristina Yudenkova # your name (or website title) here
 logo: "/images/yudenkova-kristina.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   NLP Student 
- # <br><br>
-  #  Second description 
- # <br><br>
+ 
   <a href="https://www.linkedin.com/in/kristina-yudenkova-b2b8261a6/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
